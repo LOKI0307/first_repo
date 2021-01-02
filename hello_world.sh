@@ -1,3 +1,6 @@
 #!/bin/bash
 set -x
-echo "Hello World and good morning"
+echo "Hello World"
+pwd
+ps -ef
+uname
